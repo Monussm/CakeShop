@@ -1,0 +1,101 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body{
+
+background-color: black;
+
+
+
+}
+.callus{
+
+
+border: 2px rgb(212, 172, 14) solid;
+width: 256px;
+height: 41px;
+padding: 7px;
+color: rgb(212, 172, 14);
+
+}
+.callus:hover{
+
+ background-color: rgb(212, 172, 14);
+ color: rgb(255, 255, 255);
+
+
+}
+ul{
+
+display: flex;
+list-style-type: none;
+margin-left: 256px;
+
+}
+.nav-link{
+
+color: white;
+font-weight: bold;
+}
+.nav-link:hover{
+
+
+color: rgb(212, 172, 14);
+text-decoration: underline;
+text-decoration-color: rgb(212, 172, 14);
+text-decoration-thickness: 5px;
+
+
+}
+
+.big{
+
+background-image: url(../Image/background.jpg);
+background-size: auto;
+background-repeat: no-repeat;
+height: 100vh;
+
+
+}
+.mt-5 {
+    margin-top: 7rem!important;
+    letter-spacing: 6px;
+    line-height: 97px;
+}
+.ordernow{
+
+text-decoration: none;
+background-color: rgb(212, 172, 14);
+width: 220px;
+height: 50px;
+text-align: center;
+padding: 13px;
+color: black;
+
+}
+.ordernow:hover{
+
+
+background-color: black;
+border: 1px rgb(212, 172, 14) solid;
+color: rgb(212, 172, 14);
+
+
+}
+.carso{
+
+width: 319px;
+margin-left: 30px;
+
+}
+.blog1{
+
+
+height: 275px;
+
+
+}
